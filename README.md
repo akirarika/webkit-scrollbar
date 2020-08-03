@@ -1,3 +1,1 @@
-![demo](./demo.png)
-
-[readme](./index.css)
+![demo](./demo.png) [readme](./index.css)
